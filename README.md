@@ -2,7 +2,7 @@
 
 I'm a sophomore at Iowa State University majoring in Software Engineering, passionate about coding and exploring different technologies to build innovative solutions. Whether it’s front-end, back-end, or full-stack development, I enjoy creating software that makes a difference. I'm currently working on a Utilities Spend Tracker application to streamline monthly expense management. I enjoy learning new things and continuously improving my skill set.
 
-Connect with me on ![LinkedIn](https://www.linkedin.com/in/raghav-kaashyap-136445237/)
+Connect with me on LinkedIn: https://www.linkedin.com/in/raghav-kaashyap-136445237/
 <!--
 **raghavkaashyap/raghavkaashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
