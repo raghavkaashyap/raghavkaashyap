@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a junior at Iowa State University majoring in Software Engineering and minoring in Artificial Intelligence. I;m passionate about coding and exploring different technologies to build innovative solutions. Whether it’s front-end, back-end, or full-stack development, I enjoy creating software that makes a difference. I'm currently working on a Utilities Spend Tracker application to streamline monthly expense management. I enjoy learning new things and continuously improving my skill set.
+I'm a junior at Iowa State University majoring in Software Engineering and minoring in Artificial Intelligence. I'm passionate about coding and exploring different technologies to build innovative solutions. Whether it’s front-end, back-end, or full-stack development, I enjoy creating software that makes a difference. I'm currently working on a Utilities Spend Tracker application to streamline monthly expense management. I enjoy learning new things and continuously improving my skill set.
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/raghavkaashyap/
 <!--
