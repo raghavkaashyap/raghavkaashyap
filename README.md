@@ -44,6 +44,7 @@ I’m constantly pushing to grow as an engineer by:
 
 ### 📫 Connect With Me
 🔗 [LinkedIn](https://www.linkedin.com/in/raghavkaashyap/)
+🔗 [Portfolio](https://raghavkaashyap.com)
 
 ---
 <!--
