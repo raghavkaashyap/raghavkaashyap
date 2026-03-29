@@ -35,10 +35,10 @@ I’m constantly pushing to grow as an engineer by:
 ---
 
 ### 💻 Tech Stack
-Languages: Java, Python, C, JavaScript, TypeScript, SQL
-Frameworks: Spring Boot, React, React Native, Express.js
-Cloud/Tools: AWS, Docker, Terraform, Git
-Databases: MySQL, MongoDB, SQLite
+- Languages: Java, Python, C, JavaScript, TypeScript, SQL
+- Frameworks: Spring Boot, React, React Native, Express.js
+- Cloud/Tools: AWS, Docker, Terraform, Git
+- Databases: MySQL, MongoDB, SQLite
 
 ---
 
