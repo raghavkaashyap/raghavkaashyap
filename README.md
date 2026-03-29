@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a junior at Iowa State University majoring in Software Engineering and minoring in Artificial Intelligence. I'm passionate about coding and exploring different technologies to build innovative solutions. Whether it’s front-end, back-end, or full-stack development, I enjoy creating software that makes a difference. I enjoy learning new things and continuously improving my skill set.
+I'm a junior at Iowa State University studying Software Engineering with a minor in Artificial Intelligence. I currently work part-time as a Cloud Security Software Engineer at John Deere, where I build and contribute to secure, scalable systems. I’m passionate about developing impactful software and exploring new technologies across the stack. Whether it’s designing backend systems, building full-stack applications, or working with cloud infrastructure, I enjoy solving real-world problems through code. I’m constantly learning and looking for opportunities to grow as an engineer.
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/raghavkaashyap/
 <!--
