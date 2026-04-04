@@ -2,7 +2,8 @@
 
 🎓 Software Engineering @ Iowa State University  
 🤖 Minor in Artificial Intelligence  
-💼 Part-time Cloud Security Software Engineer @ John Deere 🚜; Prev SWE Intern @ Principal Financial Group
+💼 Part-time Cloud Security Software Engineer @ John Deere 🚜  
+💼 Prev SWE Intern @ Principal Financial Group
 
 ---
 
