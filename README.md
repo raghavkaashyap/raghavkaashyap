@@ -2,6 +2,7 @@
 
 🎓 Software Engineering @ Iowa State University  
 🤖 Minor in Artificial Intelligence  
+💼 Summer 2026 SWE Intern @ Visa  
 💼 Part-time Cloud Security Software Engineer @ John Deere 🚜  
 💼 Prev SWE Intern @ Principal Financial Group
 
@@ -22,7 +23,8 @@ I’m especially interested in:
 
 ### 🛠️ What I’m Working On
 - Building full-stack applications with real-world impact
-- Exploring cloud security and scalable infrastructure  
+- Exploring cloud security and scalable infrastructure
+- Diving into AI agents and exploring their potential for workflow automation  
 - Strengthening DSA + system design for high-scale systems  
 
 ---
